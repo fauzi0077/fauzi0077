@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**fauzi0077/fauzi0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Fauzi Halim, an Information Technology graduate based in Kuala Lumpur, Malaysia.
 
-Here are some ideas to get you started:
+I enjoy building practical systems and applications that solve real-world problems, especially in mobile application development and IT systems support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus areas include Android development, application support, and IoT-based systems. I’ve worked with tools and technologies such as Android Studio, Firebase, SAP systems, NodeMCU (ESP8266), and basic networking configurations.
+
+I recently completed my Final Year Project, "SmartWaste Monitoring System Mobile Application", an IoT-based Android app that monitors waste bin fill levels in real time and automates lid control to improve waste management efficiency.
+
+I’m currently open to graduate or junior IT roles where I can grow as a developer and contribute to meaningful projects.
+
+Highlights
+- Information Technology (Hons.) Graduate, UiTM Shah Alam
+- Internship experience in Application Support & Networking
+- Developed an IoT-based Android application for my Final Year Project
+- NIOSH Tenaga Safety Leader Passport (NTSLP)
+
+Fun Facts
+- Interested in mobile apps and smart systems
+- Enjoy learning new technologies hands-on
+- Like building systems that combine hardware and software
+
+📫 Feel free to connect with me on  
+[LinkedIn](https://www.linkedin.com/in/muhdfauzihalim)
