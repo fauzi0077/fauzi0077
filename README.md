@@ -10,14 +10,6 @@ I recently completed my Final Year Project, **SmartWaste Monitoring System Mobil
 
 I’m currently open to graduate or junior IT roles where I can grow as a developer and contribute to meaningful projects.
 
-### Tech Stack
-- Android Studio (Kotlin / Java)
-- Firebase (Realtime Database, Authentication)
-- IoT: NodeMCU (ESP8266), Arduino, Ultrasonic Sensors
-- SAP System Support
-- Networking: pfSense, PuTTY
-- Tools: Git, GitHub, XAMPP
-
 ### Highlights
 - Information Technology (Hons.) Graduate, UiTM Shah Alam
 - Internship experience in Application Support & Networking
